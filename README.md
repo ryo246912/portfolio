@@ -32,11 +32,15 @@ URL : https://www.metalspace.site/
   - Vercel
   - AWS (S3)
 - ツール
-  - A5:SQL Mk-2
+  - A5:SQL Mk-2 (SQLクライアント)
+  - Draw.io (作図ツール)
+  - REST Client (APIの検証)
 - 開発環境
   - VSCode | WSL2
   - git
   - Docker & Docker-Compose
+
+![アプリ構成図](https://github.com/ryo246912/portfolio/wiki/images/app.drawio.png)
 
 ## アプリを作成した理由
 上記Webアプリを作成した理由は主に以下の3点です。  
