@@ -19,9 +19,9 @@ URL : https://www.metalspace.site/
 ## 使用技術
 
 - フロントエンド
-	- html
-	- css (TailWindCSS)
-	- javascript
+	- HTML
+	- CSS (Tailwind CSS)
+	- JavaScript
 	- React (Next.js | MUI=旧Material-UI )
 - バックエンド
 	- Python (Django & DjangoRestFramework)
@@ -37,7 +37,7 @@ URL : https://www.metalspace.site/
   - REST Client (APIの検証)
 - 開発環境
   - VSCode | WSL2
-  - git
+  - Git
   - Docker & Docker-Compose
 
 ![アプリ構成図](https://github.com/ryo246912/portfolio/wiki/images/app.drawio.png)
