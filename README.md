@@ -4,7 +4,7 @@ HR/HMを中心とした音楽情報・交流サイトです。
 
 
 サイト名 : MetalSpace  
-URL : https://www.metalspace.site/
+URL : https://www.metalspace.site/ (23年4月公開停止)
 
 
 - アートワーク画像一覧からアーティスト情報を探すことができます  
